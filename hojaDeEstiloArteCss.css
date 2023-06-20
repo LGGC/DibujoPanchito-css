@@ -1,0 +1,38 @@
+div.pancho {
+    height: 60px;
+    width: 500px;
+    margin: 0px auto;
+}
+
+#uno {
+    background-color: #dbbb84;
+
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: #b5956c;
+}
+
+#dos {
+    width: 560px;
+    background-color: #a52a2a;
+    border-radius: 100px;
+}
+
+#tres {
+    background-color: #dbbb84;
+    
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-top-color: #b5956c; 
+
+}
